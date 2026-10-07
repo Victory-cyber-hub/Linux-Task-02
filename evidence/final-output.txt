@@ -1,0 +1,7 @@
+# Final Recursive Listing Evidence
+
+Paste the actual output from:
+
+ls -laR /home/agent007/mission/
+
+Do not invent the output. Replace this placeholder with the output from your own Kali Linux lab.

@@ -1,0 +1,19 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Private shell history / credentials
+.bash_history
+*.history
+*.secret
+.env
+
+# Keep repository evidence placeholders
+!evidence/command-history.txt
+!evidence/final-output.txt

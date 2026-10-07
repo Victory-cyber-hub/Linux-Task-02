@@ -1,0 +1,17 @@
+# Command History Evidence
+
+Paste the relevant command history from your Kali Linux lab below.
+
+IMPORTANT:
+- Do NOT include passwords.
+- Do NOT include API keys, tokens, private keys, or other secrets.
+- Keep the commands in the order they were executed.
+
+Example format:
+
+sudo useradd -m -s /bin/bash -G sudo agent007
+sudo passwd agent007
+su - agent007
+whoami
+pwd
+...
